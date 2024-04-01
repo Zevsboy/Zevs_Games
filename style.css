@@ -308,7 +308,7 @@ footer{
   display: flex;
   justify-content: center;
   align-items: center;
-  width: 100%;
+  width: 100vh;
   background: var(--main-color);
   padding: 20px 50px;
   flex-direction: column;
