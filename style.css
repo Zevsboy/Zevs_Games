@@ -310,7 +310,7 @@ footer{
   align-items: center;
   width: 100vh;
   background: var(--main-color);
-  padding: 20px 50px;
+  padding: 20px 80px;
   flex-direction: column;
 
 }
